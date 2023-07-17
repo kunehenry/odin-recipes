@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Norse';
+    src: url("assets/Norse.otf") format('woff2'), url("assets/Norse.otf") format('woff');
+}
+
+h1 {
+    font-family: 'Norse', Courier, monospace;
+}
