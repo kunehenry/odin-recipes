@@ -5,17 +5,4 @@
 
 h1 {
     font-family: 'Norse', Courier, monospace;
-    font-size: 5rem;
-    color: white;
-    position: relative;
-}
-
-img {
-    width: 50rem;
-    height: 25rem;
-    position: absolute;
-}
-
-p {
-    position: relative;
 }
