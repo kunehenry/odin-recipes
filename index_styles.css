@@ -3,6 +3,29 @@
     src: url("assets/Norse.otf") format('woff2'), url("assets/Norse.otf") format('woff');
 }
 
-h1 {
+body {
     font-family: 'Norse', Courier, monospace;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+img {
+    width: 70vw;
+    height: 40vw;
+}
+
+h1 {
+    /* font-size: 70px; */
+    font-size: 7vw;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 2vw;
 }
