@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Norse';
+    src: url("../assets/Norse.otf") format('woff2'), url("assets/Norse.otf") format('woff');
+}
+
+body {
+    font-family: 'Norse', Courier, monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.align {
+    text-align: left;
+}
+
+img {
+    width: 40vw;
+    height: auto;
+}
+
+h1 {
+    /* font-size: 70px; */
+    font-size: 7vw;
+}
+
+h2 {
+    font-size: 3vw;
+}
+
+li {
+    list-style: none;
+}
